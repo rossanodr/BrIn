@@ -1,0 +1,727 @@
+ [
+    {
+      "id": "1",
+      "categoryName": "Feminino",
+
+      "categories": [
+        {
+          "category": "Roupas",
+          "collections": [
+            {
+              "title": "Vestidos",
+              "subCategories": [
+                {
+                  "name": "Vestidos com corte",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/22/16558877767ea0fd83b6f6354ad749175a881fdba5_thumbnail_405x552.jpg"
+                },
+                {
+                  "name": "T-shirt Vestidos",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/29/1656487822d8e08ab6207fe1d1bc85a26fdb8fffc5_thumbnail_405x552.webp"
+                },
+                {
+                  "name": "Vestidos Florais",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/11/24/1637730467430d7f549db8f9942edcbbeea134fb68_thumbnail_900x.webp"
+                },
+                {
+                  "name": "VEstidos de cetim",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/06/1654498201145344c634a1aeb986a398e29a7edc22_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Vestidos",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/14/165517247027b91e375a64ab956e95d812f1455b85_thumbnail_900x.webp"
+                }
+              ]
+            },
+            {
+              "title": "Macacões e Body",
+              "subCategories": [
+                {
+                  "name": "Macacões",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/22/1655870472ec04aee5d893210d59420593bf9bc5a2_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Bodysuits",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/22/165586213385d25ac970c094348ebe21a70be5255e_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Conjuntos",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/13/165508853160894c43685eaa68546a0769505c5e09_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Promoção",
+          "collections": [
+            {
+              "title": "Recomendados",
+              "subCategories": [
+                {
+                  "name": "Novidades",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/10/1654832885391851a032b20b70ec239ac2aa8ed15b_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Mais vendidos",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/19/1652923998ab0c82b2202575244b74fc64c1c7101c_thumbnail_900x.webp"
+                }
+              ]
+            },
+            {
+              "title": "Compre por preço",
+              "subCategories": [
+                {
+                  "name": "Menos de R$25",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/25/1653456360225800156d00d8dfe931d6fb45b8bd65_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Até R$45",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/13/1652408976fda7131d555caeb1ffdd3558866a0ca6_thumbnail_900x.webp"
+                },
+                {
+                  "name": "At[e R$65",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/06/04/16227704803e13c4f2ece6a721a90873570ef025c3_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Partes Inferiores",
+          "collections": [
+            {
+              "title": "Calças",
+              "subCategories": [
+                {
+                  "name": "Jeans",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/10/16521490781c09e0832a557bcdae161715001b75de_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Moleton",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/09/14/1631596175dfb54b48531d05c90829ffbb1ab15ab9_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Partes Superiores",
+          "collections": [
+            {
+              "title": "Camisetas",
+              "subCategories": [
+                {
+                  "name": "Polo",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/01/18/164248648994ae2044f1ff2158a4bef5f4c0b9a1dd_thumbnail_405x552.webp"
+                },
+                {
+                  "name": "camisas",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/06/16545025109a985797df2d4180336784ae90efbc82_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "categoryName": "PLus Size",
+
+      "categories": [
+        {
+          "category": "Roupão de gorda",
+          "collections": [
+            {
+              "title": "Macacões e Body",
+              "subCategories": [
+                {
+                  "name": "Macacões",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/29/16565013795bcdbe54a7dddc0f14133d198e27172b_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Bodysuits",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/29/165647044130a81772336f0b2bb35839d76cf94ac3_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Conjuntos",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/16/165534713532ec01652e95b90c38b9084ad3a2c8e7_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Promoção pra gorda",
+          "collections": [
+            {
+              "title": "Recomendados",
+              "subCategories": [
+                {
+                  "name": "Novidades",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/07/04/1656899892073b0a7a2fdc46b3d80a7fcdedffd5ee_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Mais vendidos",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/12/28/16406581019900c6a32768454ab8d3fe4fba817b9a_thumbnail_900x.webp"
+                }
+              ]
+            },
+            {
+              "title": "Compre por preço",
+              "subCategories": [
+                {
+                  "name": "Menos de R$25",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/04/08/16493819465197d231788b102a3f3bb78f4d46670c_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Até R$45",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/13/1652408976fda7131d555caeb1ffdd3558866a0ca6_thumbnail_900x.webp"
+                },
+                {
+                  "name": "At[e R$65",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/06/04/16227704803e13c4f2ece6a721a90873570ef025c3_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Partes Inferiores",
+          "collections": [
+            {
+              "title": "Calças",
+              "subCategories": [
+                {
+                  "name": "Jeans",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/10/16521490781c09e0832a557bcdae161715001b75de_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Moleton",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/09/14/1631596175dfb54b48531d05c90829ffbb1ab15ab9_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Partes Superiores",
+          "collections": [
+            {
+              "title": "Camisetas",
+              "subCategories": [
+                {
+                  "name": "Polo",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/25/1653456360225800156d00d8dfe931d6fb45b8bd65_thumbnail_900x.webp"
+                },
+                {
+                  "name": "camisas",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/19/1652923998ab0c82b2202575244b74fc64c1c7101c_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "categoryName": "Infantil",
+
+      "categories": [
+        {
+          "category": "Roupinhas de crianças",
+          "collections": [
+            {
+              "title": "Macacões e Body",
+              "subCategories": [
+                {
+                  "name": "Macacões",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/04/24/1650764111d08bda4896e23ba78db376532dbf1425_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Bodysuits",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/29/165647044130a81772336f0b2bb35839d76cf94ac3_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Conjuntos",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/16/165534713532ec01652e95b90c38b9084ad3a2c8e7_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Promoção pra criança",
+          "collections": [
+            {
+              "title": "Recomendados",
+              "subCategories": [
+                {
+                  "name": "Novidades",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/07/04/1656899892073b0a7a2fdc46b3d80a7fcdedffd5ee_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Mais vendidos",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/12/28/16406581019900c6a32768454ab8d3fe4fba817b9a_thumbnail_900x.webp"
+                }
+              ]
+            },
+            {
+              "title": "Compre por preço",
+              "subCategories": [
+                {
+                  "name": "Menos de R$25",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/04/08/16493819465197d231788b102a3f3bb78f4d46670c_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Até R$45",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/13/1652408976fda7131d555caeb1ffdd3558866a0ca6_thumbnail_900x.webp"
+                },
+                {
+                  "name": "At[e R$65",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/06/04/16227704803e13c4f2ece6a721a90873570ef025c3_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Partes Inferiores para crianças",
+          "collections": [
+            {
+              "title": "Calças",
+              "subCategories": [
+                {
+                  "name": "Jeans",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/10/16521490781c09e0832a557bcdae161715001b75de_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Moleton",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/09/14/1631596175dfb54b48531d05c90829ffbb1ab15ab9_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Partes Superiores",
+          "collections": [
+            {
+              "title": "Camisetas",
+              "subCategories": [
+                {
+                  "name": "Polo",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/25/1653456360225800156d00d8dfe931d6fb45b8bd65_thumbnail_900x.webp"
+                },
+                {
+                  "name": "camisas",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/19/1652923998ab0c82b2202575244b74fc64c1c7101c_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "categoryName": "Acessórios Femininos",
+
+      "categories": [
+        {
+          "category": "Cintos femininos",
+          "collections": [
+            {
+              "title": "Macacões e Body",
+              "subCategories": [
+                {
+                  "name": "Macacões",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/08/1654665405d7ef90699664b0c2f8a5ae0e8e9807b1_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Bodysuits",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/09/14/1631596175dfb54b48531d05c90829ffbb1ab15ab9_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Conjuntos",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/07/05/165699012751fa68d7d84454bfd06841fc57d2e1fe_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Promoção de acessórios",
+          "collections": [
+            {
+              "title": "Recomendados",
+              "subCategories": [
+                {
+                  "name": "Novidades",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/27/16562932310c81be25c59adafe31a06d8cc3d377ca_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Mais vendidos",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/20/16530142459bf328355857c39d74fc23c5165b895f_thumbnail_900x.webp"
+                }
+              ]
+            },
+            {
+              "title": "Compre por preço",
+              "subCategories": [
+                {
+                  "name": "Menos de R$25",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/01/17/16423838920828b34a0da7948a7fd07b8e3c50f1f3_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Até R$45",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/02/14/1644805421d6a565d1bbd38decf1ed99dc9781df28_thumbnail_900x.webp"
+                },
+                {
+                  "name": "At[e R$65",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/14/165517122168d3b80e8b57e5cfffa19ca1c352098c_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Partes Inferiores",
+          "collections": [
+            {
+              "title": "Calças",
+              "subCategories": [
+                {
+                  "name": "Jeans",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/04/21/1650530674dccc53a07bb470658ff1874866a67257_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Moleton",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/09/26/1632648202e8b9ab1272eadca43e27c1707383deeb_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Partes Superiores",
+          "collections": [
+            {
+              "title": "Camisetas",
+              "subCategories": [
+                {
+                  "name": "Polo",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/02/25/1645761564f20f3a18b73c595e378a7a57731992d1_thumbnail_900x.webp"
+                },
+                {
+                  "name": "camisas",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/04/29/1651226368a51595f4d0d2b6bc47b4a3bd137b4978_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "categoryName": "Lingerie",
+      "categories": [
+        {
+          "category": "Hmmmmm",
+          "collections": [
+            {
+              "title": "Macacões e Body",
+              "subCategories": [
+                {
+                  "name": "Macacões",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/23/1655961737c966b99b0c32594d10d68730e7981754_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Bodysuits",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/20/1655692963cecfdeb5593c373c3b891e49dc3b81ed_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Conjuntos",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/15/1655286497eff97dae1e760a453e72a5500661dd80_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Promoção",
+          "collections": [
+            {
+              "title": "Recomendados",
+              "subCategories": [
+                {
+                  "name": "Novidades",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/08/1654665405d7ef90699664b0c2f8a5ae0e8e9807b1_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Mais vendidos",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/02/16541616254fd5bd42fd7d4c37262ad5468dda7c09_thumbnail_900x.webp"
+                }
+              ]
+            },
+            {
+              "title": "Compre por preço",
+              "subCategories": [
+                {
+                  "name": "Menos de R$25",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/31/165396032389817400c909c591c08553886eaa188d_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Até R$45",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/09/14/1631596175dfb54b48531d05c90829ffbb1ab15ab9_thumbnail_900x.webp"
+                },
+                {
+                  "name": "At[e R$65",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/30/16565553555aaf35936574692ee3d856ca12f6253f_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Partes Inferiores",
+          "collections": [
+            {
+              "title": "Calças",
+              "subCategories": [
+                {
+                  "name": "Jeans",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/07/11/16575348105ef5cbcaa14fcd54848cad436fead0d7_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Moleton",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/07/12/1657618607afee481cc62a86740546afba81eb7a3f_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Partes Superiores",
+          "collections": [
+            {
+              "title": "Camisetas",
+              "subCategories": [
+                {
+                  "name": "Polo",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/04/12/1649733611a6fa062d1c509e1fdc9d70e3b92fca62_thumbnail_900x.webp"
+                },
+                {
+                  "name": "camisas",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/05/16517397160b7c874eede9d25b2940ffccf23f46b5_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "categoryName": "Promoção",
+
+      "categories": [
+        {
+          "category": "Roupas",
+          "collections": [
+            {
+              "title": "Macacões e Body",
+              "subCategories": [
+                {
+                  "name": "Macacões",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/29/16565013795bcdbe54a7dddc0f14133d198e27172b_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Bodysuits",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/29/165647044130a81772336f0b2bb35839d76cf94ac3_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Conjuntos",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/16/165534713532ec01652e95b90c38b9084ad3a2c8e7_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Promoção",
+          "collections": [
+            {
+              "title": "Recomendados",
+              "subCategories": [
+                {
+                  "name": "Novidades",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/07/04/1656899892073b0a7a2fdc46b3d80a7fcdedffd5ee_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Mais vendidos",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/12/28/16406581019900c6a32768454ab8d3fe4fba817b9a_thumbnail_900x.webp"
+                }
+              ]
+            },
+            {
+              "title": "Compre por preço",
+              "subCategories": [
+                {
+                  "name": "Menos de R$25",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/04/08/16493819465197d231788b102a3f3bb78f4d46670c_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Até R$45",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/13/1652408976fda7131d555caeb1ffdd3558866a0ca6_thumbnail_900x.webp"
+                },
+                {
+                  "name": "At[e R$65",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/06/04/16227704803e13c4f2ece6a721a90873570ef025c3_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Partes Inferiores",
+          "collections": [
+            {
+              "title": "Calças",
+              "subCategories": [
+                {
+                  "name": "Jeans",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/10/16521490781c09e0832a557bcdae161715001b75de_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Moleton",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/09/14/1631596175dfb54b48531d05c90829ffbb1ab15ab9_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Partes Superiores",
+          "collections": [
+            {
+              "title": "Camisetas",
+              "subCategories": [
+                {
+                  "name": "Polo",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/25/1653456360225800156d00d8dfe931d6fb45b8bd65_thumbnail_900x.webp"
+                },
+                {
+                  "name": "camisas",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/19/1652923998ab0c82b2202575244b74fc64c1c7101c_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "categoryName": "Masculino",
+
+      "categories": [
+        {
+          "category": "Roupas",
+          "collections": [
+            {
+              "title": "Macacões e Body",
+              "subCategories": [
+                {
+                  "name": "Macacões",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/29/16565013795bcdbe54a7dddc0f14133d198e27172b_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Bodysuits",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/29/165647044130a81772336f0b2bb35839d76cf94ac3_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Conjuntos",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/06/16/165534713532ec01652e95b90c38b9084ad3a2c8e7_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Promoção",
+          "collections": [
+            {
+              "title": "Recomendados",
+              "subCategories": [
+                {
+                  "name": "Novidades",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/07/04/1656899892073b0a7a2fdc46b3d80a7fcdedffd5ee_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Mais vendidos",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/12/28/16406581019900c6a32768454ab8d3fe4fba817b9a_thumbnail_900x.webp"
+                }
+              ]
+            },
+            {
+              "title": "Compre por preço",
+              "subCategories": [
+                {
+                  "name": "Menos de R$25",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/04/08/16493819465197d231788b102a3f3bb78f4d46670c_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Até R$45",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/13/1652408976fda7131d555caeb1ffdd3558866a0ca6_thumbnail_900x.webp"
+                },
+                {
+                  "name": "At[e R$65",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/06/04/16227704803e13c4f2ece6a721a90873570ef025c3_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Partes Inferiores",
+          "collections": [
+            {
+              "title": "Calças",
+              "subCategories": [
+                {
+                  "name": "Jeans",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/10/16521490781c09e0832a557bcdae161715001b75de_thumbnail_900x.webp"
+                },
+                {
+                  "name": "Moleton",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2021/09/14/1631596175dfb54b48531d05c90829ffbb1ab15ab9_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Partes Superiores",
+          "collections": [
+            {
+              "title": "Camisetas",
+              "subCategories": [
+                {
+                  "name": "Polo",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/25/1653456360225800156d00d8dfe931d6fb45b8bd65_thumbnail_900x.webp"
+                },
+                {
+                  "name": "camisas",
+                  "img": "https://img.ltwebstatic.com/images3_pi/2022/05/19/1652923998ab0c82b2202575244b74fc64c1c7101c_thumbnail_900x.webp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+

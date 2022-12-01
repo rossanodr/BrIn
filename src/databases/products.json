@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "vestido xadrez azul",
+    "price": "148.00",
+    "promocional_price": "81.70",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/22/16558877767ea0fd83b6f6354ad749175a881fdba5_thumbnail_405x552.jpg",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Suéter feminino Honeyspot Colete listrado Lazer",
+    "price": "292.00",
+    "promocional_price": "175.10",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/10/164959077612b501fab9bdfd2a396b6b84d4354a0f_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "T-shirt feminina DAZY cor sólida com nervuras lazer",
+    "price": "148.00",
+    "promocional_price": "81.70",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/03/30/1648610520a4606fab6f410f18d6a7c411dc96e24c_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Calção Jeans Feminino DAZY com Separação na Bainha Cor Sólida",
+    "price": "280.00",
+    "promocional_price": "151.80",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/27/16536281782a9677ee1c7361cb3d7ac9322b8014f9_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "DAZY Vestido Feminino Folha de Lótus Lazer Listrado",
+    "price": "301.00",
+    "promocional_price": "204.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/13/165511336438bc071d4e000973d5d14ce426d5d37b_thumbnail_405x552.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Suéter feminino Patchwork Striped Letter Ready",
+    "price": "266.00",
+    "promocional_price": "250.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/21/16557885525db7e6fd2a0a22340ce1e830baeaf7d5_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Carta de lazer com zíper para roupas esportivas femininas",
+    "price": "231.00",
+    "promocional_price": "187.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/13/1655112321008eff8dece8a28d84b686b5deb6cc2a_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Carta de Lazer Colete Suéter Feminino Honeyspot",
+    "price": "172.00",
+    "promocional_price": "138.00",
+    "img": "https://img.ltwebstatic.com/images2_pi/2019/04/08/15547118954259454440_thumbnail_405x552.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN BASICS Suéter Feminino Lazer Listrado",
+    "price": "214.00",
+    "promocional_price": "125.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/01/1656649783848a90e452da5144eeab012b8f314d5e_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN X BAE REAPER Roupas esportivas femininas Cartoon Leaf",
+    "price": "226.00",
+    "promocional_price": "182.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/24/1656035396a84b4ef5f2eb913de6820556fa175a9c_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Top feminino com corte liso DAZY Leisure",
+    "price": "278.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/07/1657176138122fa38127b3402aa236ab0376f9bc8e_thumbnail_405x552.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN BASICS Suéter Feminino de Cor Sólida Lazer",
+    "price": "142.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/01/1656649873fba3eebb09139d8a3206f35a97fb3045_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN Women's Sportswear Asymmetrical Floral Leisure",
+    "price": "271.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/29/1656469975c2e68426dd2dc36c90303b707dcdfa52_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "DAZY Leisure Colete Listrado Suéter Feminino",
+    "price": "274.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/03/31/1648715979a8ec7ddfeaf37c5362187cce789d1167_thumbnail_405x552.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN Suéter Feminino Saia Contraste Constraint Listras Lazer",
+    "price": "280.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/04/16569038186d1d67d60f2921bf8f47f13adc301c41_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Camisa feminina DAZY com botões frontais de cor lisa e lazer",
+    "price": "267.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/01/18/164248648994ae2044f1ff2158a4bef5f4c0b9a1dd_thumbnail_405x552.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Camisola Feminina All Saints Feminina Pronta",
+    "price": "242.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/06/16545025109a985797df2d4180336784ae90efbc82_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Carta de Lazer Colete Suéter Feminino SHEIN",
+    "price": "245.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/29/16564705896f27886578eba6966ea0ae8ccd89b64e_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Roupa esportiva feminina assimétrica com zíper de cor sólida e lazer",
+    "price": "199.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/31/16539610207a63f935eca79a8dcfcf79f41ebde0c7_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN Roupas esportivas femininas de cores sólidas e lazer",
+    "price": "280.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/29/16564733327fcb4f7b1342413c6291c52f9b3f3b7d_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "DAZY Women's Sportswear Plain Color Zipper Leisure",
+    "price": "253.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/06/30/162504248437fbcdab740dd3fccefabbfd6284fea3_thumbnail_405x552.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Botão de bolso de cor lisa de calça de terno feminino",
+    "price": "346.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/20/1655717263412c6599cd2dd3b27730e85b17033b6d_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Vestido DAZY Botões Frontais Lazer Listras\n",
+    "price": "405.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/29/1656487822d8e08ab6207fe1d1bc85a26fdb8fffc5_thumbnail_405x552.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "DAZY Feminino Cardigans Lazer Cor Sólida Botão Frontal",
+    "price": "385.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/08/19/1629367679e88542f3cbace1babc7c3e58e23549f4_thumbnail_405x552.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Saia Feminina Dazy-Less Lazer com Botão Frontal Sólido",
+    "price": "337.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/21/1658386633e8a64c519ac8eaeac23aeb341ef45601_thumbnail_405x552.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Camisa Feminina DAZY Bonito Bordado",
+    "price": "250.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/02/15/164491503931906fa1e8843c479729727deb3e5e62_thumbnail_405x552.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Bloco de cores recreativas para roupas esportivas femininas",
+    "price": "172.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/02/1654161396766043c77dc8c5bbc016b8275174f33c_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Carta de Lazer Bloco de Cores com Zíper para Roupas Esportivas Femininas",
+    "price": "301.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/31/16539878655792d0d2c7c6935f491bea949e646b7c_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Carta de Lazer Bloco de Cores com Zíper para Roupas Esportivas Femininas",
+    "price": "242.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/31/16539878655792d0d2c7c6935f491bea949e646b7c_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Slogan de lazer para roupas esportivas femininas",
+    "price": "258.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/06/165448462479f5f242d58e7fed7cc363be4db89caf_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN X Jamie Hill Women's Sportswear Cut Out Graphics Recreational",
+    "price": "203.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/24/16560338609bc9a72c1f250c975d7d3bdb33830c44_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN Suéter Geometria Colete Feminino Pronto",
+    "price": "246.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/29/16564704822c1993e983bb9e5443761fba083c9161_thumbnail_900x.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Carta de Lazer Colete Suéter Feminino Honeyspot",
+    "price": "172.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/01/10/16417863646193d86659c9f760fa4e1784982c1931_thumbnail_405x552.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Suéter Colete Feminino Honeyspot Corda Sólida Lazer",
+    "price": "296.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/11/02/163584066727e1125c1f75b413cdd309ca1448a93a_thumbnail_405x552.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Camisola Feminina Dazy-Less Recorte Corda Lazer em Cor Sólida",
+    "price": "364.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/09/17/1631859319aa1f46100c933630530d8615e09863f3_thumbnail_405x552.webp",
+    "tipo": "sw",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Relógio de quartzo com ponteiro redondo decorativo de strass",
+    "price": "50.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/08/13/1628817700b80a44a8dc85c35cfb3cbc7c909a28f3_thumbnail_900x.webp",
+    "tipo": "sj",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Colar de cores",
+    "price": "20.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/06/22/1624329684b34624500c224e4b73ba8d724ff9e8ad_thumbnail_900x.webp",
+    "tipo": "sj",
+
+    "category": "feminino",
+    "subCategory": "vestidos",
+    "": ""
+  },
+  {
+    "name": "Brincos com design de flores",
+    "price": "14.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/25/1653469413fa9112fb74ade7ce2e5a8e2f0ef5003e_thumbnail_900x.webp",
+    "tipo": "sj",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1 par de brincos de flor",
+    "price": "35.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2020/04/24/1587714591a692b0c1c74c0be16ff9afdc626ac5a1_thumbnail_900x.webp",
+    "tipo": "sj",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Brincos borboleta",
+    "price": "17.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/03/24/1648112632369adf0f9da36540373bd5b77d3c35f9_thumbnail_900x.webp",
+    "tipo": "sj",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Calções Masculinas Street Color com Bolso e Zíper",
+    "price": "306.00",
+    "promocional_price": "175.10",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/06/1651834881caf4c5b90088d6209f45b2eab8102c3c_thumbnail_220x293.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Camisa Masculina DaZY em Cores Sólidas",
+    "price": "232.00",
+    "promocional_price": "128.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/01/1654080432c7b2cb8ecc1eedcd6375e1cced96a00c_thumbnail_405x552.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Geometria de feriado com botão frontal de camisa masculina",
+    "price": "225.00",
+    "promocional_price": "187.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/01/1648781874f00ccbc4cfa06af87a5d7fcc2ea2c8ae_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "DAZY Tops Men's Ribed Solid Color Leisure",
+    "price": "225.00",
+    "promocional_price": "157.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/01/1648781874f00ccbc4cfa06af87a5d7fcc2ea2c8ae_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Melhores figuras masculinas de slogan de rua",
+    "price": "179.00",
+    "promocional_price": "115.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/26/16509380790b06f855675e4f6ce48a1f4fd83b995e_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "DAZY lidera carta de entretenimento masculino",
+    "price": "195.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/01/11/164187234641679247ed62db43b82243bd844af3d4_thumbnail_405x552.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "T-shirt masculina SHEIN com colarinho e renda contrastante com botão frontal em cores e letras prontas",
+    "price": "225.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/01/14/16421241855dfe8c79649db50faf8ac19dfa18d0d8_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Camisa Masculina Botão Frontal Color Block Carta Lazer",
+    "price": "256.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/05/16517182111731fd57f399045bbd76ace33bf2283a_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "T-shirt masculina com gola e botões frontais gráficos recreativos",
+    "price": "213.30",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/20/1653026016c777c0fb796329e69753d6ae9f2c8cf2_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Botão frontal de camisa masculina em cores sólidas",
+    "price": "281.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/03/21/164785138330ce413b577106f77813e7b87489d507_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "T-shirts masculinas com colarinho todas em estampa lazer",
+    "price": "249.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/20/16530241055ccf045011170297b5725bc24ea86cbe_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Camisa masculina xadrez botão frontal com estampa aleatória pronta",
+    "price": "244.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/22/1653197182627970f13882357f63497890ba4132ea_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "T-shirt masculina com colarinho frontal e listras de lazer",
+    "price": "264.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/27/16563213108ddaafe4b3a743f23ef408f236999392_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "T-shirt Masculina Gola Contraste Renda Lazer",
+    "price": "268.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/24/165606425280bba2ed92a5a7bdf8c7b0d93b3ba3bc_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Tamanhos estendidos para camisetas masculinas com gola e zíper recreativo em cores",
+    "price": "307.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/23/1655997628f2aac96b8cf756257ecdc69932e575f6_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Camiseta Masculina Gola Bordada Letra Lazer",
+    "price": "244.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/24/165606420721be50330c1a6dedd93c6b5f1843fa68_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Tamanhos estendidos para camisetas masculinas com botões e blocos coloridos recreativos",
+    "price": "296.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/21/16558113992951c7349bcbeab279657edf8bced38a_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Tamanhos estendidos para camisetas masculinas com gola e zíper recreativo em cores",
+    "price": "293.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/21/1655777469b6a428ac55a2aed38a0de49ceb96af37_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Calça masculina casual com bolso com zíper",
+    "price": "690.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/10/1652153070dbedc2dfec4a77e02b7e1b5413e529d7_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Calças Masculinas Bolsas com Zíper Cor Simples Lazer",
+    "price": "237.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/11/26/16379056688b6827504323758b2442f81e62f7eaf8_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Shorts Masculinos Tamanhos Alargados Mochila com Zíper Lazer",
+    "price": "287.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/30/165657842376e86b7494cc5899c437b5cb46abcc78_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Calção de Praia Masculino SHEIN com Ziper Color Block",
+    "price": "185.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/01/19/164256142954cfaa1ca4d7be4af63d27206afc8f3c_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Calções masculinos SHEIN bolso com zíper férias nos EUA",
+    "price": "170.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/12/01/1638328271850875ddb53ca862ede9d48d0db913cf_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Calções Masculinas com Bolsos Zipper em Lazer",
+    "price": "251.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/28/165640969561fd78a11652bb25b38713586b01b699_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Calções Masculinas ROMWE Bolso com Zíper na Frente Laço Laço Letra Pronto",
+    "price": "196.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/04/16569448737a6464e73b8cdf8c7f8eaddc45dc11bf_thumbnail_405x552.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Calção Masculino ROMWE com Zíper Laço na Frente Letra Tropical Vacation",
+    "price": "224.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/03/07/16466254611d209a13f652ec2013815029610c753a_thumbnail_405x552.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Calções masculinas ROMWE com zíper pronto",
+    "price": "191.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/01/165665187090986064b1e11f4300e995554383dd82_thumbnail_405x552.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Carta animada de entretenimento com zíper masculino ROMWE com zíper frontal",
+    "price": "224.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/12/01/16383282730f488f49b12e22eed861392a7fdaccfe_thumbnail_405x552.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Óculos de sol masculinos com armação geométrica",
+    "price": "65.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/30/16565580409e05b02529a72610feded4009565cb0f_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Tiras traseiras camufladas de sandália masculina vazia",
+    "price": "242.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/02/15/1644908070d6ca0cb9d0592b2e2175b30dc790c287_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Óculos da moda masculina",
+    "price": "100.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/31/1653975895126acbb7bde76d927c2c21bc6522ddfe_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Óculos de sol quadrados masculinos",
+    "price": "83.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/06/165707831900d7e65fecb3b45e59d9a7110216a665_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Chapéu bucket masculino com estampa de letras",
+    "price": "96.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/18/1652844859022fa5cd8661c8faf29e03ab0b267ef0_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Mocassim liso masculino",
+    "price": "475.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/27/165632643354a08b5b2381825cd608d8372967d306_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Botas masculinas com cadarço e sem zíper",
+    "price": "539.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/02/1654154057fe2f3438ea9a5df0d52497effa2e2866_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Roupa de banho tropical masculina com zíper",
+    "price": "231.00",
+    "promocional_price": "205.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/17/165543460646c7e99a4521c9a57a26acf248fbc99a_thumbnail_405x552.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Roupa de banho masculina com zíper em impressão de férias",
+    "price": "160.00",
+    "promocional_price": "130.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/02/26/1614310193739cddba95153b2fabb00f0efe72183c_thumbnail_900x.webp",
+    "tipo": "sm",
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Camiseta masculina SHEIN com gola e botão frontal em renda contrastante Geometria toda estampada",
+    "price": "211.00",
+    "promocional_price": "195.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/26/1650959220dd5dd17f7e150a4c4ebf8cab3d15be08_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Camisa masculina ROMWE com botão frontal e gravata tingida para férias",
+    "price": "243.00",
+    "promocional_price": "155.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/01/14/16421241855dfe8c79649db50faf8ac19dfa18d0d8_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Camisa masculina ROMWE com botão frontal e gravata tingida para férias",
+    "price": "243.00",
+    "promocional_price": "155.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/12/16523334581f8af87c52347e47ccfb2c58c2640ff3_thumbnail_900x.webp",
+    "tipo": "sm",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Letra do bebê no topo",
+    "price": "106.00",
+    "promocional_price": "70.10",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/26/1653535735a630b183f5aeaf49e0fb53d593a6df6d_thumbnail_900x.webp",
+    "tipo": "sa",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto de moda masculino SHEIN Entertainment Color Block",
+    "price": "236.00",
+    "promocional_price": "140.10",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/23/1653277388ed762621a792ea43b82d2af1d2433bab_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "masculino",
+    "subCategory": "Tops"
+  },
+  {
+    "name": "Vestidos de bebê com decalques de laço frontal e flores em estampa Boho",
+    "price": "168.00",
+    "promocional_price": "105.10",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/11/24/1637730467430d7f549db8f9942edcbbeea134fb68_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Bodysuits Baby Color Block All on Print",
+    "price": "137.00",
+    "promocional_price": "81.70",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/29/16511962201f479e6c4dd7bd25b1f04b5b26ceb853_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Bodies Animated Puppy",
+    "price": "170.00",
+    "promocional_price": "105.10",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/12/10/1639139212f72de3a90395c86c6e1d75741b8f099a_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Jeans de bolso dividido em cores sólidas para meninos",
+    "price": "371.00",
+    "promocional_price": "198.50",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/12/10/1639139212f72de3a90395c86c6e1d75741b8f099a_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Calções de ganga áspero para meninas com separação de cores sólidas",
+    "price": "240.00",
+    "promocional_price": "151.80",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/27/16510282762fe5d758bfdf7a2eefc17382f3d9ba1b_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Slogan de Recreação de Plantas de Encadernação de Contraste SHEIN Tanks Boys",
+    "price": "105.00",
+    "promocional_price": "58.40",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/22/16506074807b6689f92582da4db7e48be0ae464354_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Bolsa de bainha de jeans de cor sólida bebê",
+    "price": "257.00",
+    "promocional_price": "151.80",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/06/165449785047d969145083ca49d2ab37cd10746163_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN Baby Girl Shorts Denim Botões Artesanato Bordado Bainha Áspera Bolsa Flor Zíper",
+    "price": "309.00",
+    "promocional_price": "175.10",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/05/165171697274cbd96998532fd4dae73a893b14ff0c_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto de Duas Peças SHEIN Girl Botão Recortado com Nó com Babado Boho Padrão Floral",
+    "price": "391.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/01/16540642197eebdabea815b2d76e85272dda78e91d_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto de Duas Peças SHEIN de Folha de Lótus Ru Vien Lady",
+    "price": "355.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/02/1654134304e9bee0a77a9b75ec463c08cd70e667ac_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN Top Boys All in Print Entertainment",
+    "price": "110.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/17/1652756371e4610c03377f890666ee1146e5cd4050_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Calças jeans para meninas pequenas calças jeans destacadas em cores sólidas",
+    "price": "269.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/02/1654146775c1191840f4866ced259ed77bd8452ed1_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto de moda para meninos Geometry Entertainment",
+    "price": "189.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/01/1654046879817486fc929b44a23dfde05175b36403_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Vestimento para casa da menina Bordado Fofo Desenho Bonito",
+    "price": "215.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/06/1649226365ccb183da53f7f9ae850bbb135f2c31cd_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Shorts femininos listrados listrados de entretenimento",
+    "price": "84.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/08/16494083963fdff2601930304221048831d56ec081_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto de bebê lindo floral em camadas contrastante em malha contrastante",
+    "price": "250.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/26/1650955763b1f6309256cadbb7e6068046166b6a4a_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Roupa de banho infantil Rugged Vegetables Cute",
+    "price": "164.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/24/1650764111d08bda4896e23ba78db376532dbf1425_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Roupa de banho linda com zíper florido",
+    "price": "192.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/17/16554430151612137216243621ba7a739098a3d77d_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Letra de Encadernação de Contraste de Contraste para Bebê Fofa",
+    "price": "164.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/17/1655452596e77d5d85a587bf80a89412c4845fb1b2_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Roupa de banho Boho Cartoon Baby",
+    "price": "203.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/30/165387387985ea20be1f84febd49a2ff39dc811be4_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Vestido Boho Flower Little Babado SHEIN",
+    "price": "431.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/06/1654498201145344c634a1aeb986a398e29a7edc22_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Vestido de menina SHEIN com borda de folha de lótus Folha de lótus Chu Vien em cor lisa Bonito",
+    "price": "293.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/14/165517247027b91e375a64ab956e95d812f1455b85_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Vestido de menina SHEIN com encaixe e lantejoulas Bordado Flor Atraente Zíper",
+    "price": "586.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/01/12/164196282817b4f6daba8fce830b98952653e13db3_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Vestido de bolso com botão frontal sólido de entretenimento",
+    "price": "242.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/02/14/16448275875bada6456e98c178b600db45651eca1a_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN Blusa Girl Button Front Graphic Letter Leisure",
+    "price": "156.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/03/11/1646997737eefa26fa1ffa8f0a8c82c95eb8f16a60_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Vestido de menina SHEIN com borda de folha de lótus fofinho",
+    "price": "250.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/27/16510649232f0c5801560cbc782ca3c26af80aa291_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Vestido desgrenhado SHEIN Boho Tribe",
+    "price": "241.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/21/165051889736dc282cd169a3fb67a3b50182893413_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN Floral Dresses Beautiful Dresses",
+    "price": "111.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/01/19/164257398654c2bd819f354485d189819cb2672ef0_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Pacote de 3 biquínis com estampa floral aleatório para meninas adolescentes",
+    "price": "249.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/31/165397905649b688ba678b4063c67aba069bd6250_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Macacões femininos SHEIN Color Block Sports Letter",
+    "price": "245.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/22/1655870472ec04aee5d893210d59420593bf9bc5a2_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN Macacão Feminino com Zíper na Frente Cor Sólida Vestido Bonito",
+    "price": "326.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/22/165586213385d25ac970c094348ebe21a70be5255e_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN Meninas Macacões Cintos Bolsos Cor Sólida Botões Frontais Lazer",
+    "price": "399.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/13/165508853160894c43685eaa68546a0769505c5e09_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN Meninas Macacões Cintos Cor Sólida Zíper Lazer",
+    "price": "243.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/10/1654826482160f9c84504e139b988c16bf99cf0693_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Macacão feminino SHEIN assimétrico com babados em camadas cor sólida bem vestido",
+    "price": "231.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/10/1654832885391851a032b20b70ec239ac2aa8ed15b_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN Baby Girls Shorts jeans com botão e bolsos com zíper em cor sólida",
+    "price": "287.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/31/16539756124fd9f65a32ada9ca4e1f2db2167b083c_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Lindo vestido de macacão com zíper para meninas SHEIN",
+    "price": "365.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/09/16547711014b1f0c2cda9cad9527fa8b56d47f8ec7_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN Girl Blusas Botões Frontais Lazer",
+    "price": "165.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/14/1655174174b68f80897d6378b5e84404da55e21f33_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Blusas SHEIN Girl Button Cut Out Solid Boho",
+    "price": "127.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/10/1654829578add9db9770c77b568e4a195ac13cd9db_thumbnail_900x.webp",
+    "tipo": "sk",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Macacão Plus Size Cortado Sexy Color Block Zipper",
+    "price": "241.00",
+    "promocional_price": "208.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/19/1652923998ab0c82b2202575244b74fc64c1c7101c_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Macacões SHEIN SXY Plus Size Boho Faixa Elástica de Cor Sólida",
+    "price": "331.00",
+    "promocional_price": "278.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/25/1653456360225800156d00d8dfe931d6fb45b8bd65_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Calça jeans grande bainha áspera com zíper de cor sólida dividida",
+    "price": "486.00",
+    "promocional_price": "245.20",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/13/1652408976fda7131d555caeb1ffdd3558866a0ca6_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Vestido SHEIN Plus Size Renda Contrastada Botão Frontal Elegante Color Block",
+    "price": "453.00",
+    "promocional_price": "203.40",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/06/04/16227704803e13c4f2ece6a721a90873570ef025c3_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN Conjunto Casual Tamanho Grande Contraste Royal Plaid Renda",
+    "price": "450.00",
+    "promocional_price": "233.50",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/01/14/1642125904df8825e0a0562554cd4095231988af6a_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN Fashion Set Plus Size Folha de Lótus Borda em camadas Folha de Lótus Pacote Completo Elegante Cor Simples Bordado",
+    "price": "426.00",
+    "promocional_price": "221.80",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/08/16493819465197d231788b102a3f3bb78f4d46670c_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN SXY Calça Jeans Grande Cinto Botão Bolso Zíper Jeans Cor Liso",
+    "price": "513.00",
+    "promocional_price": "256.90",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/10/16521490781c09e0832a557bcdae161715001b75de_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Vestido SHEIN Plus Size com babados, busto plissado, elegante, cor sólida",
+    "price": "320.00",
+    "promocional_price": "163.50",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/12/28/16406581019900c6a32768454ab8d3fe4fba817b9a_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Camisa plus size botão frontal patchwork vegetal Boho",
+    "price": "297.00",
+    "promocional_price": "175.10",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/25/1653447926230fb70660e94083763b656af12e4a57_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "T-shirt SHEIN Plus size xadrez floral com babados lazer",
+    "price": "255.00",
+    "promocional_price": "96.50",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/19/1652944657f566a6ef3c7db2af161d0d6649abe3ef_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto de Moda SHEIN Plus Size Cor Sólida Lazer",
+    "price": "557.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/04/1656899892073b0a7a2fdc46b3d80a7fcdedffd5ee_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto de Moda SHEIN SXY Plus Size Gráficos de Entretenimento Separados",
+    "price": "479.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/01/1656644003447bcf3914569635a4e078abef06204f_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "SHEIN Fashion Set Plus Size Cartoon Entertainment",
+    "price": "271.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/29/16565013795bcdbe54a7dddc0f14133d198e27172b_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto de Moda SHEIN SXY Plus Size Edge Letra Sexy",
+    "price": "301.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/29/165647044130a81772336f0b2bb35839d76cf94ac3_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto Lazer Moda Plus Size Camuflado",
+    "price": "463.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/16/165534713532ec01652e95b90c38b9084ad3a2c8e7_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Gráficos SHEIN Fashion Set Plus Size Entertainment Slogan",
+    "price": "371.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/28/16563822207703b20b1f157efb160b5f9dca8a0828_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto de moda plus size sexy sólido com nervuras",
+    "price": "296.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/27/16563190975de5880dd3fab691efc420aae86d9e15_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Jornal de entretenimento assimétrico plus size, conjunto de moda",
+    "price": "411.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/27/1656299998b9d721bbff7892ddb9e2a12b64ffa584_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto de moda Plus Size Zipper Color Block Leisure",
+    "price": "651.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/27/16562930233c6fa4fe5ccecb037b34c7d13c2d4173_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto de Moda SHEIN X ROXI Plus Size Seios Sólidos Sensuais com Babados Assimétricos",
+    "price": "326.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/24/1656038058c9fa289123f59d5fdb73c30243d0a204_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto de Moda SHEIN SXY Plus Size Costas Abertas Anel Cruzado Amarrado em Cor Sólida Sexy",
+    "price": "412.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/23/1655961737c966b99b0c32594d10d68730e7981754_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto de Moda SHEIN Plus Size Dividido Laço Frontal Dobrado Elegante Cor Sólida Busto",
+    "price": "458.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/23/16559561430d9c077f3a285dd458ece3bcbabd182e_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto Moda SHEIN Gravata Boho Letra Plus Size",
+    "price": "411.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/20/165570383631b91cce6d807243975c6a9d28b311a5_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto de moda plus size com zíper carta de lazer",
+    "price": "364.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/20/1655692963cecfdeb5593c373c3b891e49dc3b81ed_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Biquíni plus size com babados torcido cor sólida elegante",
+    "price": "294.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/11/1652232309a4a5093ddd51c6ebb8d351d0629529b7_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Anel de biquíni de tamanho grande com três furos elegante cor sólida",
+    "price": "387.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/06/165450063004cf765835c1cf3e7d9d23fed8183e29_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Nó de cor sólida elegante de uma peça tamanho grande",
+    "price": "312.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/15/1655286497eff97dae1e760a453e72a5500661dd80_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Biquíni plus size Lazer",
+    "price": "316.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/01/04/1641262329e718d8d8b7c70b268b234ed0dc326be9_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Boho Tribe Shaggy plus size",
+    "price": "332.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/09/1654743827eb4241acbe80a6e8784f3a2de72a2121_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Bikinx Plus Size One Piece Sexy Flower Back",
+    "price": "333.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/08/1654665405d7ef90699664b0c2f8a5ae0e8e9807b1_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Plus Size One Piece Elegante Solid Color Cross",
+    "price": "305.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/09/1654739135e999a6414d6193a25a50da3ddd39c12e_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Mais tamanho único Boho Tropical Chain",
+    "price": "364.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/02/16541616254fd5bd42fd7d4c37262ad5468dda7c09_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Jornal Plus Size One Piece Recortado e Sexy",
+    "price": "250.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/02/165413328802daab1f1502b1340c33519291cfa7d3_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Boho Tropical Shaggy plus size",
+    "price": "320.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/31/165396032389817400c909c591c08553886eaa188d_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Calça SHEIN Plus Size Cor Sólida Lazer",
+    "price": "260.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/05/165699012751fa68d7d84454bfd06841fc57d2e1fe_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Calça Plus Size Bolsas Cores Lisas Lazer",
+    "price": "344.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/09/14/1631596175dfb54b48531d05c90829ffbb1ab15ab9_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Calça SHEIN Plus Size Floral Lazer",
+    "price": "201.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/30/16565553555aaf35936574692ee3d856ca12f6253f_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Calça Plus Size Recreacional Bolsa Camuflada",
+    "price": "321.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/28/165641162884c7ee034a9fffb0f8056ef597601f6b_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Calças plus size de cor sólida de entretenimento",
+    "price": "515.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/27/1656293102b893b35a09668b0560107897c9d5a5b0_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Calça plus size com botão, zíper e nó, cor lisa",
+    "price": "416.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/27/16562932310c81be25c59adafe31a06d8cc3d377ca_thumbnail_900x.webp",
+    "tipo": "sf",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto de capa de edredon estampado limão sem enchimento",
+    "price": "581.00",
+    "promocional_price": "226.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/03/15/1647306037ef3f39196a82e921e01e9521bba630d4_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Placa de resfriamento de cor gradiente equipada",
+    "price": "436.00",
+    "promocional_price": "406.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/20/16530142459bf328355857c39d74fc23c5165b895f_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Placa equipada com Zebra Stripe Jacquard",
+    "price": "580.00",
+    "promocional_price": "284.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/18/16528708946a3530c8dc615db171a329a36edc37fa_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1 par de fronhas gráficas com slogan de Páscoa Sem enchimento",
+    "price": "209.00",
+    "promocional_price": "63.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/02/28/164601486113134f696e3dbdf1fc89cb92cc83f32c_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "MOTF PREMIUM LÃ DE CAXEMIRA SEDA COBERTURA DE OLHOS DE SEDA",
+    "price": "454.00",
+    "promocional_price": "377.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/01/17/16423838920828b34a0da7948a7fd07b8e3c50f1f3_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1 par de fronha canguru sem enchimento",
+    "price": "209.00",
+    "promocional_price": "63.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/26/16509453245856a7d6566d47455745ed1d97d56107_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1 par de fronha de pom pom sem enchimento",
+    "price": "255.00",
+    "promocional_price": "92.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/02/14/1644805421d6a565d1bbd38decf1ed99dc9781df28_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Equipe o modelo de penas",
+    "price": "227.00",
+    "promocional_price": "197.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/14/165517122168d3b80e8b57e5cfffa19ca1c352098c_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Conjunto de folha de modelo Paisley sem preenchimento",
+    "price": "418.00",
+    "promocional_price": "302.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/19/165295278732895c28254d954eadd196297ef8d9b4_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Equipamento escorregadio",
+    "price": "302.00",
+    "promocional_price": "185.00",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/21/1650530674dccc53a07bb470658ff1874866a67257_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "2 hortênsias artificiais",
+    "price": "23.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/03/22/161638838039345094726db3e05f73a5e5f0e2e268_thumbnail_405x552.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Caixa de joias transparente com 1 peça e bolsa com 20 peças",
+    "price": "74.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/09/26/1632648202e8b9ab1272eadca43e27c1707383deeb_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Caixa de joias de uma peça de cor sólida",
+    "price": "84.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/09/26/1632648053f4f9fd353bf8899b8978644b4a1ec0db_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "4pcs adesivo bordado rosa",
+    "price": "22.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/31/165396881923237bb0db3dc7a6891aae1beb1e304a_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "MOTF PREMIUM 1pc Decoração de Olhos com Strass Capa de Olho de Seda",
+    "price": "296.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/02/25/1645761564f20f3a18b73c595e378a7a57731992d1_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1 par de fronhas de caveira sem enchimento",
+    "price": "137.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/29/1651226368a51595f4d0d2b6bc47b4a3bd137b4978_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Painéis de encaixe à prova d'água com padrão geométrico e bolsos laterais",
+    "price": "546.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/12/06/1638753205b598d67587486f019063d55dbb5bba6f_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Equipar estampa de tigre",
+    "price": "455.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/10/28/163538563552444ee6f4da44a079d2b52f04028421_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1pc lancheira impressa",
+    "price": "114.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/05/05/16517397160b7c874eede9d25b2940ffccf23f46b5_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1pc dobrável rack de armazenamento de jóias",
+    "price": "113.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/04/12/1649733611a6fa062d1c509e1fdc9d70e3b92fca62_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "5pcs saco de armazenamento de sapatos de cor sólida",
+    "price": "17.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/08/20/1629426057cec6f1da844787b1072dcbd0b9aa0cb0_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1pc sofá caixa de armazenamento de jóias",
+    "price": "424.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/01/16540682695b2662811ee005c0a94498e68f78efbf_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1pc caixa de armazenamento de remédios de 12 células",
+    "price": "10.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/23/16559660245c140edf33c395bf8876f3d865ee1142_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1 caixa de roupa de cor sólida",
+    "price": "216.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/12/1657618607afee481cc62a86740546afba81eb7a3f_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1 saco de roupa suja modelo urso polar",
+    "price": "186.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/11/16575348105ef5cbcaa14fcd54848cad436fead0d7_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Cesto de roupa suja Cesto de roupa suja",
+    "price": "450.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/08/165726910372a63ebb6fd2c4eb97cdf38128a9600b_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1pc caixa de roupa dobrável",
+    "price": "54.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/07/16571689872371d6f8e184ecd9b86abad4c195166c_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1 caixa de lavanderia de malha",
+    "price": "63.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/05/1657010287eddfaf3636a70aa1b99f9596c4a656bf_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1 colher de filtro de aço inoxidável com pinça",
+    "price": "42.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/13/165770048508e37f07cb2961fc253da8161c2fbf8a_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "12 unidades de molde de biscoito de padrão misto",
+    "price": "57.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/06/07/16545847194b99128a50cfbe755dcc044500e0e412_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1pc filtro de malha com alça",
+    "price": "66.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/07/16571908461a944cb47801039a826645c11f62703e_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Forma de biscoito em forma de gato 1 unidade",
+    "price": "10.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2021/05/11/162070499317543a5bcfcf46199104037d0d1db9fb_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1 toalha de mesa decorada com renda floral bordada",
+    "price": "115.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/21/1658368526de597f379855ec175c8d4d1d02be29c1_thum bnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1 toalha de mesa bordada com flores",
+    "price": "108.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/22/16584657280b865645bb8bafe96818d1c09f15675_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "uma toalha de mesa com padrão geométrico",
+    "price": "104.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/21/16583689828caab09acec309eb79cdba783f7dee7e_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "Toalha de mesa gráfica com flor e slogan",
+    "price": "104.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/21/1658396572c499ce15fed626043104e451080daede_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1 toalha de mesa geométrica Jacquard",
+    "price": "274.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/19/16582011063369e337ca754fbb93d3c3655831bcc8_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "1 abóbora de Halloween e toalha de mesa gráfica",
+    "price": "162.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/11/16575098006c932be29d0207de27341d0dc097a422_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "5 bolsas de presente com design de abóbora de Halloween",
+    "price": "47.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/21/1658386899bb0811b179927175847f2c80d2421f0a_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  },
+  {
+    "name": "8pcs saco de presente de Halloween",
+    "price": "50.00",
+    "promocional_price": "0",
+    "img": "https://img.ltwebstatic.com/images3_pi/2022/07/14/1657785294a96ee4efaed6b8a5fa0283dfaa75a9b6_thumbnail_900x.webp",
+    "tipo": "sh",
+
+    "category": "feminino",
+    "subCategory": "vestidos"
+  }
+]
