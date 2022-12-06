@@ -1,5 +1,6 @@
 import React from "react";
 import Constants from "expo-constants";
+import { Provider as PaperProvider } from "react-native-paper";
 
 import * as SplashScreen from "expo-splash-screen";
 import theme from "./src/theme";
@@ -49,8 +50,11 @@ export default function App() {
     <SafeAreaProvider style={{ marginTop: Constants.statusBarHeight }}>
       <GestureHandlerRootView style={{ flex: 1 }}>
         <StatusBar style="light" translucent backgroundColor="transparent" />
+
         <ThemeProvider theme={theme}>
-          <Routes />
+          <PaperProvider>
+            <Routes />
+          </PaperProvider>
         </ThemeProvider>
       </GestureHandlerRootView>
     </SafeAreaProvider>

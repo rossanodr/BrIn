@@ -1,26 +1,11 @@
 import React, { useEffect, useState } from "react";
 import { FlatList, ScrollView } from "react-native-gesture-handler";
 import { useTheme } from "styled-components/native";
+
 import { CategoriesFlatListButton } from "../../components/CategoriesFlatListButton";
-import { CategoryBox } from "../../components/CategoryBox";
+import { Container, Content, ListWrapper } from "./styles";
 import { Header } from "../../components/Header";
 import { ProductCard } from "../../components/ProductCard";
-import { Container, Content, ListWrapper } from "./styles";
-import categories from "../../databases/categories.json";
-import { CategoryDTO } from "../../DTOs/CategoryDTO";
-import {
-  addDoc,
-  collection,
-  collectionGroup,
-  doc,
-  getDoc,
-  getDocs,
-  limit,
-  query,
-  setDoc,
-  where,
-} from "firebase/firestore";
-import { firestore } from "../../services/firebase";
 import { useQueryProductsByCategory } from "../../hooks/useQueryProductsByCategory";
 
 export function Categories() {
@@ -35,6 +20,7 @@ export function Categories() {
   );
 
   // Handles the button Title & the button selected
+/* It's setting the first item of the array as the default selected item. */
   useEffect(() => {
     {
       verticalCategoryTitles && console.log(verticalCategoryTitles[0]);

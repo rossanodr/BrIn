@@ -1,10 +1,9 @@
-import React from "react";
-import { Button } from "../../components/Button";
-import { Entypo } from "@expo/vector-icons";
 import { ButtonContainer, Container, Content, Title } from "./styles";
+
+import { Button } from "../../../../components/Button";
+import { Entypo } from "@expo/vector-icons";
+import React from "react";
 import { useTheme } from "styled-components";
-
-
 
 export function MyAddress() {
   const theme = useTheme();

@@ -42,11 +42,12 @@ export default {
 
     /** danger **/
     danger: "#f04141",
-    danger_rgb: "rgba(245, 61, 61, 0.6)",
+    danger_rgb: "rgba(245, 61, 61, 0.2)",
     danger_contrast: "#ffffff",
     danger_contrast_rgb: "rgba(255, 255, 255, 0.6)",
     danger_shade: "#d33939",
     danger_tint: "#f25454",
+    danger_gradient: ["rgba(230,139,42,0.06)","rgba(244,184,119,0.05)" ],
 
     // /** dark **/
     // dark: '#222428',

@@ -1,7 +1,15 @@
-import { collection, query, where, limit, getDocs } from "firebase/firestore";
 import React, { useEffect, useState } from "react";
+import { collection, getDocs, limit, query, where } from "firebase/firestore";
+
 import { firestore } from "../services/firebase";
 
+/**
+ * It's a custom hook that queries the firestore database for products based on the category and
+ * subcategory.
+ * @param {string} headerCategory - string,
+ * @param {string} [subCategory] - string
+ * @returns An object with a productsList property.
+ */
 export function useQueryProductsByCategory(
   headerCategory: string,
   subCategory?: string,

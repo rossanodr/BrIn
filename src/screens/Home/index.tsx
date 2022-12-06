@@ -1,12 +1,12 @@
-import { collection, getDocs, query, where } from "firebase/firestore";
 import React, { useEffect, useState } from "react";
 import { FlatList } from "react-native-gesture-handler";
+import { collection, getDocs, query, where } from "firebase/firestore";
 import { useTheme } from "styled-components/native";
+
+import { Container, Content } from "./styles";
 import { Header } from "../../components/Header";
 import { ProductCard } from "../../components/ProductCard";
 import { firestore } from "../../services/firebase";
-
-import { Container, Content } from "./styles";
 
 export function Home() {
   const theme = useTheme();
@@ -14,6 +14,7 @@ export function Home() {
   const [headerCategory, setHeaderCategory] = useState("");
   const [products, setProducts] = useState([]);
 
+/* Fetching data from firebase and setting it to the state. */
   useEffect(() => {
     async function fetchData() {
       try {

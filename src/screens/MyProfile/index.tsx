@@ -1,30 +1,28 @@
 import React from "react";
 import {
-  Feather,
-  Ionicons,
-  FontAwesome5,
-  MaterialIcons,
-  MaterialCommunityIcons,
-  Octicons,
-  FontAwesome,
   AntDesign,
+  Feather,
+  FontAwesome,
+  Ionicons,
+  MaterialCommunityIcons,
+  MaterialIcons,
+  Octicons,
 } from "@expo/vector-icons";
+
 import {
   ButtonBox,
-  Buttons,
   ButtonText,
+  Buttons,
   Container,
   Content,
   Title,
 } from "./styles";
 import { Header } from "../../components/Header";
+import { useHandleNavigation } from "../../hooks/useHandleNavigation";
 import { useRootStackParamList } from "../../hooks/useRootStackParamList";
 
 export function MyProfile() {
-  const navigation = useRootStackParamList();
-  function handleNavigationMyConfigs() {
-    navigation.navigate("Configurações");
-  }
+  const { handleGoBack, handleNavigation } = useHandleNavigation();
 
   return (
     <Container>
@@ -32,11 +30,11 @@ export function MyProfile() {
       <Content>
         <Title>Oi, Rossano</Title>
         <ButtonBox>
-          <Buttons onPress={handleNavigationMyConfigs}>
+          <Buttons onPress={() => handleNavigation("Configurações")}>
             <AntDesign name="setting" size={22} color="black" />
             <ButtonText>Configurações</ButtonText>
           </Buttons>
-          <Buttons>
+          <Buttons onPress={() => handleNavigation("Meus Cupons")}>
             <Title>8</Title>
             <ButtonText>Cupons</ButtonText>
           </Buttons>
@@ -44,11 +42,11 @@ export function MyProfile() {
             <Title>0</Title>
             <ButtonText>Pontos</ButtonText>
           </Buttons>
-          <Buttons>
+          <Buttons onPress={() => handleNavigation("Meus Cartões")}>
             <Ionicons name="wallet-outline" size={22} color="black" />
             <ButtonText>Carteira</ButtonText>
           </Buttons>
-          <Buttons>
+          <Buttons onPress={() => handleNavigation("Cartão de presente")}>
             <Ionicons name="gift-outline" size={22} color="black" />
             <ButtonText>Cartão de{"\n"}presente</ButtonText>
           </Buttons>
@@ -57,7 +55,7 @@ export function MyProfile() {
       <Content>
         <Title>Meus Pedidos</Title>
         <ButtonBox>
-          <Buttons>
+          <Buttons onPress={() => handleNavigation("Meus Pedidos")}>
             <Feather name="credit-card" size={22} color="black" />
             <ButtonText>Não pago</ButtonText>
           </Buttons>

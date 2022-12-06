@@ -1,7 +1,7 @@
 import React from "react";
 import {
-  ParamListBase,
   NavigationProp,
+  ParamListBase,
   useNavigation,
 } from "@react-navigation/native";
 
